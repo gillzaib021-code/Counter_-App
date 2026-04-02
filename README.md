@@ -1,16 +1,25 @@
-# counterapp
+# Counter App
 
-A new Flutter project.
+A simple Flutter Counter App that allows users to increment, decrement, and reset a counter. Built with a clean and interactive UI, this app is perfect for beginners learning Flutter and state management. It demonstrates basic app functionality and user interaction.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Increment counter
+- Decrement counter
+- Reset counter
+- Clean and interactive UI
+- Beginner-friendly Flutter project
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Counter App Screenshot](https://github.com/gillzaib021-code/Counter_-App/blob/449feae9ea0a269519c799cc9ce92835a84ca16e/as.jpeg)
+
+---
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/counter_app.git
